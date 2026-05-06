@@ -1,0 +1,16 @@
+source,target,cost,distance_km,description
+General_Vault,Levent_Center,120,15,Route from main depot to Levent Regional Cash Center (TL/trip)
+General_Vault,Umraniye_Center,140,22,Route from main depot to Umraniye Regional Cash Center (TL/trip)
+General_Vault,ATM_Besiktas,200,18,Direct route from main depot to Besiktas ATM
+General_Vault,ATM_Sisli,190,17,Direct route from main depot to Sisli ATM
+Levent_Center,ATM_Besiktas,60,4,Route from Levent Center to Besiktas ATM
+Levent_Center,ATM_Sisli,50,3,Route from Levent Center to Sisli ATM
+Levent_Center,ATM_Maslak,45,5,Route from Levent Center to Maslak ATM
+Levent_Center,ATM_Kagithane,55,6,Route from Levent Center to Kagithane ATM
+Levent_Center,ATM_Bayrampasa,80,10,Route from Levent Center to Bayrampasa ATM
+Umraniye_Center,ATM_Kadikoy,65,8,Route from Umraniye Center to Kadikoy ATM
+Umraniye_Center,ATM_Uskudar,55,5,Route from Umraniye Center to Uskudar ATM
+Umraniye_Center,ATM_Maltepe,90,14,Route from Umraniye Center to Maltepe ATM
+Umraniye_Center,ATM_Bayrampasa,110,18,Route from Umraniye Center to Bayrampasa ATM
+General_Vault,ATM_Kadikoy,230,30,Direct route from main depot to Kadikoy ATM
+General_Vault,ATM_Maltepe,280,38,Direct route from main depot to Maltepe ATM
