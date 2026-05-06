@@ -1,7 +1,7 @@
 # 🏦 Bank ATM Cash Transportation Network Optimization
 
 **GitHub-Based Python Project Assignment**  
-**Course:** Management Information Systems — Network Optimization Problems  
+**Course:** Quantitative Analysis For Decision Making
 **Model:** Shortest Route / Shortest Path Problem  
 **Algorithm:** Dijkstra's Algorithm
 
